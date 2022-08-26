@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 from datetime import datetime
 
 
-api_id = 19890531
-api_hash = '7ec8158285a1d583eaea1d881c70ca2e'
+api_id = 1
+api_hash = ''
 
 
 
